@@ -37,8 +37,6 @@ Certifications
 
 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL here.
-
-https://www.linkedin.com/in/ayush-kumar-singh-345600429
+- LinkedIn: https://www.linkedin.com/in/ayush-kumar-singh-345600429
 
 ⭐ Learning, Building and Growing!
