@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Ayush Kumar Singh! 👋
 
-<!--
-**vyushsingh/vyushsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student at Lovely Professional University.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python.
+- 💻 Exploring programming and computer science fundamentals.
+- 📊 Interested in Data Science and Data Analytics.
+- 🎯 Aspiring Data Scientist.
+- 🚀 Interested in building practical projects and learning new technologies.
+
+Education
+
+Lovely Professional University
+
+B.Tech – Computer Science and Engineering
+2026 – 2030
+
+Currently Learning
+
+- Python Programming
+- Programming Fundamentals
+- Data Science Basics
+
+My Goals
+
+- Strengthen my programming fundamentals.
+- Learn SQL and Data Analytics.
+- Build practical Data Science projects.
+- Improve my problem-solving skills.
+
+Certifications
+
+- Python Programming
+- Data Science for Everyone
+
+Connect With Me
+
+- LinkedIn: Add your LinkedIn profile URL here.
+
+https://www.linkedin.com/in/ayush-kumar-singh-345600429
+
+⭐ Learning, Building and Growing!
